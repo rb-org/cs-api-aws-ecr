@@ -18,6 +18,6 @@
 
 | Name | Description |
 |------|-------------|
-| cs\_api\_ecr\_arn |  |
-| cs\_api\_registry\_id |  |
-| cs\_api\_repository\_url |  |
+| cs\_api\_ecr\_arn | CS API Repository Arn |
+| cs\_api\_registry\_id | CS API Repository Id |
+| cs\_api\_repository\_url | CS API Repository Url |
